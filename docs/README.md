@@ -1,28 +1,33 @@
 # Island Line, Isle of Wight UK
 
-This is a representation of the Island Line, an 8.5 mile route connecting the north to the south regions of the Isle of Wight in Hampshire, UK. The route is electrified by 3rd rail and at the time of writing is serviced by 1938 former London Underground rolling stock classified under TOPS as Class 483.
+This is a representation of the Borderlands line between Wrexham in North East Wales, and Bidston on the Wirral. The route totals 27 miles in length, and apart from a small section at Bidston is not electrified.
 
-Addition of this route to the Railway Operation Simulator has been made possible through the collaborative efforts of the newly formed development team, acting as a test to determine the feasibility of joint group map creation.
+This is my first route to be published on GitHub, so forgive me if there are things out of place.
 
 ## The Simulation
 
-The simulation includes a simple timetable representing weekday services on the line between Ryde Pier Head and Shanklin.
+The simulation includes a timetable representing services that occurred on Tuesday, 22nd Septenber 2020, There are fewer services to Wrexham Central owing to restrictions sorrounding social distamcing. As a result, most services will turn in the block at Wrexham General
 
-The route features all the main stations:
+The route features all the stations:
 
-- Ryde Pier Head
-- Ryde Esplanade
-- Ryde St. John's Road
-- Smallbrook Junction (For the Isle of Wight Steam Railway)
-- Brading
-- Sandown
-- Lake
-- Shanklin
+- Wrexham Central
+- Wrexham General
+- Gwersyllt
+- Cefn-y-Bedd
+- Caergwrle
+- Hope (Flintshire)
+- Penyffordd 
+- Buckley
+- Hawarden (where they make the wings for Airbus)
+- Shotton
+- Hawarden Bridge (which has a limited service)
+- Neston
+- Heswall
+- Upton
+- Bidston
 
-as well as St. John's Road depot. Due to the lack of information on the speed limits of the line, the line speed is set mainly to 45mph. Ryde Pier, Ryde Esplanade Jct, Smallbrook Jct, Brading and Sandown area have speed limits of 20mph, with a 15mph on the approach to Shanklin. 
-
-If you know of a reliable source for a more accurate description of the line speeds please let us know! 
+as well as the sidings for UPM Shotton Paper, and Dee Marsh sidings. There are no depot facilities on this route. The linespeeds and distances have been taken from teh National Electronic Sectional Appendix, but may vary slightly from reality due to the limitations of the simulator.
 
 ## Development
 
-As mentioned, Island Line is the first "open" project which invites contribution from anyone. Further contributions towards the project are welcome, be it through creation of additional timetables or improvements to the route representation/accuracy.
+This is my third published project on Railway Operations Sim. and my first on GitHub, it has been a steep learning curve,a nd I am thankful to Krizar for his help.
