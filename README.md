@@ -1,5 +1,5 @@
-# Island Line, Isle of Wight UK
-South Western Railway: Island Line, Isle of Wight, UK
+# Wrexham To Bidston ("The Borderlands Line")
+Transport For Wales : Borderlands Line, UK
 
 ![Track Diagram](https://github.com/Railway-Op-Sim/UK-Wrexham_To_Bidston/blob/master/Images/Wrexham%20to%20Bidston.bmp)
 
@@ -12,8 +12,8 @@ South Western Railway: Island Line, Isle of Wight, UK
 | Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">|
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Session | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Timetable | <img src="https://freesvg.org/img/milker_X_icon.png" height="24"> |
+| Session | <img src="https://freesvg.org/img/milker_X_icon.png" height="24"> |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 ## Data Sources 
