@@ -12,8 +12,8 @@ Transport For Wales : Borderlands Line, UK
 | Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">|
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Timetable | <img src="https://freesvg.org/img/milker_X_icon.png" height="24"> |
-| Session | <img src="https://freesvg.org/img/milker_X_icon.png" height="24"> |
+| Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.sv" height="24"> |
+| Session | <img src="https://image.flaticon.com/icons/svg/1632/1632596.sv" height="24"> |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 ## Data Sources 
