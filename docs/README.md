@@ -1,4 +1,4 @@
-# Island Line, Isle of Wight UK
+# Wrexham To Bidston, North East Wales
 
 This is a representation of the Borderlands line between Wrexham in North East Wales, and Bidston on the Wirral. The route totals 27 miles in length, and apart from a small section at Bidston is not electrified.
 
@@ -26,8 +26,12 @@ The route features all the stations:
 - Upton
 - Bidston
 
-as well as the sidings for UPM Shotton Paper, and Dee Marsh sidings. There are no depot facilities on this route. The linespeeds and distances have been taken from teh National Electronic Sectional Appendix, but may vary slightly from reality due to the limitations of the simulator.
+as well as the sidings for UPM Shotton Paper (not used), and Dee Marsh sidings. There are no depot facilities on this route. The linespeeds and distances have been taken from teh National Electronic Sectional Appendix, but may vary slightly from reality due to the limitations of the simulator.
 
 ## Development
 
 This is my third published project on Railway Operations Sim. and my first on GitHub, it has been a steep learning curve,a nd I am thankful to Krizar for his help.
+
+## Operating Notes:
+
+For the freight trains, you will need to cancel the automatic routes, do so when the service train is mid-section.
