@@ -1,0 +1,16 @@
+rly_file = "Wrexham_to_Bidston.rly"
+ttb_files = [ "Wrexham_to_Bidston.ttb",]
+ssn_files = [ "Wrexham_to_Bidston_Pre_Start_autoimatic_signal_routes_set.ssn",]
+img_files = [ "Wrexham_to_Bidston.bmp",]
+doc_files = [ "README.md",]
+release_date = "2026-07-21"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2026
+display_name = "Wrexham_To_Bidston"
+name = "Wrexham_To_Bidston"
+signal_position = "left"
+author = "markgajones"
+contributors = []
