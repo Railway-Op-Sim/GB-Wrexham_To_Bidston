@@ -1,7 +1,7 @@
 # Wrexham To Bidston ("The Borderlands Line")
 Transport For Wales : Borderlands Line, UK
 
-![Track Diagram](https://github.com/Railway-Op-Sim/UK-Wrexham_To_Bidston/blob/master/Images/Wrexham_to_Bidston.bmp)
+![Track Diagram](https://github.com/Railway-Op-Sim/UK-Wrexham_To_Bidston/blob/main/Images/Wrexham_to_Bidston.bmp)
 
 ## Current Status
 
